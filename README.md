@@ -17,5 +17,5 @@ As this repository is primarily for personal learning purposes, I may not active
 If you have any questions, suggestions, or just want to connect, feel free to reach out to me. You can find my contact information in the repository's `README` or through my GitHub profile.
 
 Thank you for visiting my Learning Projects Repository! Happy coding! 😊👨‍💻
-# Project 1-
+# Project 1:
 ![Screenshot 2024-03-31 165716](https://github.com/rohitkorpal/Learning-projects/assets/137724523/348eba1a-abee-4f0b-b637-d92bdc439310)
