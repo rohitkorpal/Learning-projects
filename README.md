@@ -18,4 +18,4 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 
 Thank you for visiting my Learning Projects Repository! Happy coding! 😊👨‍💻
 # Project 1:
-![Screenshot 2024-03-31 165716](https://github.com/rohitkorpal/Learning-projects/assets/137724523/348eba1a-abee-4f0b-b637-d92bdc439310)
+![Screenshot 2024-03-31 170314](https://github.com/rohitkorpal/Learning-projects/assets/137724523/05d4c3aa-30a3-49d2-af22-8709337c903d)
